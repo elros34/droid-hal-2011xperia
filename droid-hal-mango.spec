@@ -8,8 +8,6 @@
 
 %define installable_zip 1
 
-%define local_hadk_build_project 1
-
 %define android_config \
 #define QCOM_BSP 1\
 %{nil}
